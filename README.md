@@ -44,7 +44,7 @@ The focus of this project is to evaluate the efficiency and scalability of the R
    
 ## How to Run: (Approach - 2)
 
-You can directly double click on **run.bat** file and execution of python files will start successfully.
+You can directly double click on **run.bat** file and execution of python files will start successfully ensuring all the resources are available.
 
 
 
